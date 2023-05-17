@@ -1,0 +1,234 @@
+[
+    {
+        "title": "API",
+        "definition": "Application Programming Interface ou Interface de Programação de Aplicativos, em português. É um conjunto de rotinas e padrões de programação para acesso a um aplicativo de software ou plataforma baseado na Web."
+    },
+    {
+        "title": "ANTIVÍRUS",
+        "definition": "Software utilizado para proteção dos computadores contra malwares."
+    },
+    {
+        "title": "ANALYSER",
+        "definition": "Sistema onde se encontra todos relatórios gerenciais (Report)."
+    },
+    {
+        "title": "AUTORESPONDER",
+        "definition": "Software que devolve automaticamente uma mensagem padrão sempre que recebe um e-mail."
+    },
+    {
+        "title": "BACKBONE",
+        "definition": "Rede principal por onde circulam todos os dados de todos os clientes da Internet."
+    },
+    {
+        "title": "BIG DATA",
+        "definition": "É a área do conhecimento que estuda como tratar, analisar e obter informações a partir de conjuntos de dados grandes demais para serem analisados por sistemas tradicionais."
+    },
+    {
+        "title": "BITCOIN",
+        "definition": "É uma criptomoeda descentralizada ou um dinheiro eletrônico para transações ponto-a-ponto."
+    },
+    {
+        "title": "BROWSER",
+        "definition": "Navegador de internet. Software que permite visualizar imagens, fotos, sons, vídeos e textos na internet."
+    },
+    {
+        "title": "BPS",
+        "definition": "Medida pela qual bits de dados são transmitidos por um meio de comunicação, como um modem."
+    },
+    {
+        "title": "BACKUP",
+        "definition": "É uma cópia de segurança dos dados, e o seu principal objetivo é manter os arquivos armazenados de forma segura, além de garantir que não haja uma possível perda."
+    },
+    {
+        "title": "BANDWIDTH",
+        "definition": "Largura de banda de internet, é a quantidade de informação que pode ser transmitida em um determinado meio de comunicação durante uma unidade de tempo."
+    },
+    {
+        "title": "BOTENET",
+        "definition": "São robôs que tentam infectar máquinas. Feito isso, o Hacker detém o controle das máquinas para utilizá-las."
+    },
+    {
+        "title": "BUG",
+        "definition": "É um defeito, falha ou erro no código de um programa que provoca seu mau funcionamento."
+    },
+    {
+        "title": "CLOUD COMPUTING",
+        "definition": "Cloud computing ou computação em nuvem é a entrega da computação como um serviço ao invés de um produto, onde recursos compartilhados, software e informações são fornecidas, permitindo o acesso através de qualquer computador, tablet ou celular conectado à Internet."
+    },
+    {
+        "title": "CLOUDWATCH",
+        "definition": "São dados sobre o desempenho de seus sistemas, que podem ser fornecidos de forma gratuita pelo provedor do banco de dados. Dessa forma, é possível habilitar o monitoramento detalhado para alguns recursos."
+    },
+    {
+        "title": "CLUSTER",
+        "definition": "Técnica utilizada para colocar diversos processadores em paralelo, normalmente utilizada em servidores, para aumentar a capacidade de processamento individual de cada processador."
+    },
+    {
+        "title": "COOKIES",
+        "definition": "Informação colocada no computador do usuário quando ele visita determinado site."
+    },
+    {
+        "title": "DARK DATA",
+        "definition": "São dados desconhecidos que podem ficar perdidos ou armazenados, sem a possibilidade de serem acessados ou analisados, caso o sistema não esteja configurado para isso."
+    },
+    {
+        "title": "DASHBOARD",
+        "definition": "São painéis que mostram métricas e indicadores importantes para alcançar objetivos e metas traçadas de forma visual, facilitando a compreensão das informações geradas."
+    },
+    {
+        "title": "DATA CENTER",
+        "definition": "Centro de Processamento de Dados, é um ambiente projetado para concentrar os servidores, os equipamentos de processamento e de armazenamento de dados."
+    },
+    {
+        "title": "DNS",
+        "definition": "Domain Name System ou Sistema de Nomes de Domínios, em português, é um sistema de gerenciamento de nomes. Quando você solicita ao seu navegador, o acesso à um determinado domínio, automaticamente ele faz uma requisição ao servidor DNS configurado, e encontra o respectivo endereço IP da máquina que fornece o serviço."
+    },
+    {
+        "title": "DEVOPS",
+        "definition": "É uma metodologia de desenvolvimento de software que busca maximizar os resultados das equipes de TI. A metodologia. Integra toda a equipe de colaboradores e torna mais eficiente a comunicação entre eles, elevando o desenvolvimento de software e as equipes de TI a um novo patamar."
+    },
+    {
+        "title": "DPO",
+        "definition": "É o profissional responsável pela proteção de dados dentro da empresa, garantindo a segurança das informações, tanto dos clientes quanto da própria organização."
+    },
+    {
+        "title": "EC2 AUTO SCALING",
+        "definition": "É um serviço que assegura o volume exato de instâncias necessárias, de maneira automática. Utilizando esse serviço, é possível garantir alta performance das aplicações hospedadas na cloud e redução de custos."
+    },
+    {
+        "title": "EDR",
+        "definition": "O Endpoint Detection and Response (EDR), também conhecido como Endpoint Threat Detection and Response (ETDR), se trata de uma tecnologia de segurança com monitoramento contínuo, que tem como objetivo detectar ameaças cibernéticas."
+    },
+    {
+        "title": "ENDPOINT",
+        "definition": "Refere-se a duas “pontas” que estão se comunicando através de um protocolo de comunicação de dados."
+    },
+    {
+        "title": "ERP",
+        "definition": "Enterprise Resource Planning ou Planejamento dos recursos da empresa, tradução em português. São softwares que integram todos os dados e processos de uma organização em um único sistema, exemplo: SAP, Protheus etc."
+    },
+    {
+        "title": "FIREWALL",
+        "definition": "É um software de segurança que realiza a verificação de pacotes de dados que são enviados bem como recebidos pelo computador. Assim, ele funciona como um gatekeeper digital, verificando os dados que entram e saem."
+    },
+    {
+        "title": "FIRMWARE",
+        "definition": "Conjunto de instruções operacionais programadas diretamente no hardware de um equipamento eletrônico."
+    },
+    {
+        "title": "FIREWALL",
+        "definition": "É um software de segurança que realiza a verificação de pacotes de dados que são enviados bem como recebidos pelo computador. Assim, ele funciona como um gatekeeper digital, verificando os dados que entram e saem."
+    },
+    {
+        "title": "FIRMWARE",
+        "definition": "Conjunto de instruções operacionais programadas diretamente no hardware de um equipamento eletrônico."
+    },
+    {
+        "title": "HACKER",
+        "definition": "Pessoa com grande habilidade técnica em tecnologia que utiliza seu conhecimento para invadir sistemas para causar danos às redes ou computadores. "
+    },
+    {
+        "title": "HARDWARE",
+        "definition": "É a parte física do computador, ou seja, o conjunto de aparatos eletrônicos, peças e equipamentos que fazem o computador funcionar."
+    },
+    {
+        "title": "HOST",
+        "definition": "Computador Central, também designado por servidor. "
+    },
+    {
+        "title": "HOTSPOT",
+        "definition": "Nome dado a determinados lugares, normalmente áreas de grandeconcentração de pessoas como aeroportos, onde se localizam redes sem fio de alta capacidade cujo uso pode ser feito mediante pagamento ao provedor da infraestrutura."
+    },
+    {
+        "title": "HTML",
+        "definition": "É uma linguagem de marcação utilizada na construção de páginas na Web."
+    },
+    {
+        "title": "HTTPS",
+        "definition": "Hyper Text Transfer Protocol ou Protocolo de Transferência de Hipertexto, em português. Presente na URL de websites, trata-se de um meio de comunicação de sistemas que permite a transferência de dados entre servidores e computadores na internet, sendo responsável por transmitir as informações das páginas em HTML."
+    },
+    {
+        "title": "HUB",
+        "definition": "Equipamento para onde convergem dados que chegam de uma ou várias fontes e seguem para um ou vários destinos, dependendo do tipo e do comando recebido. "
+    },
+    {
+        "title": "IAAS",
+        "definition": "Aqui você vai ter toda infraestrutura como um serviço, seu ambiente cloud disponibilizando uma estrutura física construída para atender todos os requisitos de segurança e demandas necessárias.Segurança física e lógica com redundância de conectividade de energia, climatização, que está pronto e estruturado para sua utilização com escalabilidade e prevenção a falhas.  "
+    },
+    {
+        "title": "IP",
+        "definition": "Protocolo responsável pela identificação das máquinas e redes e encaminhamento correto das mensagens entre elas na internet. "
+    },
+    {
+        "title": "JAVA",
+        "definition": "É uma linguagem de programação orientada a objetos. "
+    },
+    {
+        "title": "KBPS",
+        "definition": "Unidade de medida utilizada para medir a velocidade de transmissão de dados na rede. "
+    },
+    {
+        "title": "KERNEL",
+        "definition": "É o núcleo de um sistema operacional, responsável por fazer a ponte entre os programas e os componentes físicos do computador."
+    },
+    {
+        "title": "LGPD",
+        "definition": "É a lei que dispõe sobre o tratamento de dados pessoais, a fim de proteger os direitos fundamentais de liberdade e privacidade, e o livre desenvolvimento da personalidade da pessoa natural, conforme descrito no artigo 5º da constituição."
+    },
+    {
+        "title": "MALWARE",
+        "definition": "É um código malicioso e ou programa malicioso de computador destinado a infiltrar-se em um sistema de computador alheio de forma ilícita, com o intuito de causar alguns danos, alterações ou roubo de informações. "
+    },
+    {
+        "title": "OKR",
+        "definition": "Objectives and Key Results ou Objetivos e Resultados-Chave, em português, é uma metodologia de gestão focada em simplificar a definição e rastreamento dos objetivos e resultados-chave de uma empresa."
+    },
+    {
+        "title": "ON PREMISE",
+        "definition": "Servidores on premises são hardwares físicos que ficam armazenados em uma sala das empresas, que contam com controle de temperatura por ar-condicionado para evitar o superaquecimento, quase sempre requerem a utilização de um nobreak para prevenir quedas e picos repentinos de energia e exigem uma rotina de backup para precaver possíveis falhas ou avarias no dispositivo."
+    },
+    {
+        "title": "PAAS",
+        "definition": "É uma das principais formas de contratar a computação e nuvem, oferecendo as licenças de software, infraestrutura, manutenção, sistema de comunicação e tudo que for necessário para a aplicação, disponibilizando flexibilidade e redução de custos."
+    },
+    {
+        "title": "PHISHING",
+        "definition": "É a tentativa fraudulenta de obter informações confidenciais como nomes de usuário, senhas e detalhes de cartão de crédito, por meio de disfarce de entidade confiável em uma comunicação eletrônica."
+    },
+    {
+        "title": "PIX",
+        "definition": "É um sistema funcional que chegou para quebrar as barreiras burocráticas e custosas das operações financeiras, como depósitos e transferências bancárias, que cobram dos usuários e empresas."
+    },
+    {
+        "title": "RANSOMWARE",
+        "definition": "É utilizado como vírus de resgate e recebe esse nome porque criptografa os dados, que depois só podem ser acessados novamente com uma senha. Esta senha fica em posse de quem executou o vírus e isso pode acontecer com a permissão ou não de quem está utilizando o computador onde estão contidas as informações."
+    },
+    {
+        "title": "SAAS",
+        "definition": "Software como serviço é uma forma de distribuição e comercialização de software onde o fornecedor será o responsável total da estrutura necessária para utilização e o cliente irá acessar os serviços pela internet como Microsoft Office 365. O SaaS usa o acesso com página Web para fornecer aplicativos e acessados ao cliente sem necessidade de download ou instalações de algum programa ou extensão."
+    },
+    {
+        "title": "SERVERLESS",
+        "definition": "Arquitetura Serverless transfere a responsabilidade da infraestrutura para os provedores que oferecem serviços de expertise como a AWS, Azure e Google Cloud.  Assim, essas plataformas robustas conseguem resolver a maioria dos problemas de infraestrutura enfrentados, como questões de escalabilidade e gerenciamento de hardware. "
+    },
+    {
+        "title": "SLA",
+        "definition": "Service Level Agreement ou Acordo de Nível de Serviço, em português (ANS).  Que consiste num contrato entre duas partes: entre a entidade que pretende fornecer o serviço e o cliente que deseja se beneficiar deste. Detalhando todos os aspectos do tipo de serviço que será prestado, assim como os prazos contratuais, a qualidade do serviço e o preço a ser pago pelo trabalho. "
+    },
+    {
+        "title": "STREAM",
+        "definition": "É uma tecnologia que envia informações multimídia, através da transferência de dados, utilizando redes de computadores, especialmente a Internet, e foi criada para tornar as conexões mais rápidas. "
+    },
+    {
+        "title": "SPAM",
+        "definition": "É um termo faz referência aos e-mails indesejados. Além disso, eles servem como vetor para ataques tipo phishing ou mesmo golpes cada vez mais elaborados por estelionatários. "
+    },
+    {
+        "title": "SSL",
+        "definition": "Secure Socket Layer ou Camada de Socket Segura, em português. É um protocolo de segurança que utiliza a tecnologia da criptografia para proteger dados."
+    },
+    {
+        "title": "",
+        "definition": ""
+    }
+]
